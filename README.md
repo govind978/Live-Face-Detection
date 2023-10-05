@@ -34,8 +34,8 @@ jupyter notebook
 
 # Working of the Face Detection Model:
 
-The face detection model uses a pre-trained deep learning architecture, typically based on Convolutional Neural Networks (CNNs).
-The model is fine-tuned on a dataset containing images with annotated face regions, allowing it to learn to recognize facial features.
-When an image is passed through the model, it identifies regions that resemble human faces by analyzing patterns, textures, and shapes.
-Bounding boxes are drawn around these detected face regions, highlighting their locations in the image.
-The model's performance in detecting faces is highly accurate, making it a valuable tool for various applications, including facial recognition, people counting, and emotion analysis.
+1. The face detection model uses a pre-trained deep learning architecture, typically based on Convolutional Neural Networks (CNNs).
+2. The model is fine-tuned on a dataset containing images with annotated face regions, allowing it to learn to recognize facial features.
+3. When an image is passed through the model, it identifies regions that resemble human faces by analyzing patterns, textures, and shapes.
+4. Bounding boxes are drawn around these detected face regions, highlighting their locations in the image.
+5. The model's performance in detecting faces is highly accurate, making it a valuable tool for various applications, including facial recognition, people counting, and emotion analysis.
